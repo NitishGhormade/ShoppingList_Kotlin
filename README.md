@@ -1,0 +1,1 @@
+This app provides you the easy way to manage and track things to be purchased. 
