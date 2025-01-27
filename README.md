@@ -1,1 +1,2 @@
-This app provides you the easy way to manage and track things to be purchased. 
+# Shopping List Application
+### This is a Mobile Application build in Kotlin  
